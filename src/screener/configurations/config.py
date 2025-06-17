@@ -42,9 +42,5 @@ class config_manager:
 
         return json_path
     
-    def backtest_data_path():
-        yaml_file=read_yaml(CONFIG_FILE_PATH)
-        json_path=yaml_file["data_saving"]["back_test_path"]
-
-        return json_path
+ 
 

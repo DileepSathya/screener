@@ -39,25 +39,4 @@ class data_retrival:
                 
             
             save_to_hist_data_json(data_with_symbols,file_path)
-    
-    def bactest_data(self):
-        symbol_list,start_date,end_date=prev_day_data_pipeline.backtest()
-       
-
-        for symbol in symbol_list:
-            data = {
-                    "symbol": symbol,
-                    "resolution": "D",
-                    "date_format": "1",
-                    "range_from": start_date,
-                    "range_to": end_date,
-                    "cont_flag": "1"
-            }
-            print(f"\n Fetching data for {symbol} from {start_date} to {end_date}...")
-            response = self.fyers.history(data=data)
-            data_with_symbols=extract_candles_with_symbol(response_json=response,symbol=symbol)
-                
-            file_path=config_manager.backtest_data_path()
-            logger.info("Entering clearing phase")
-            
-            save_to_hist_data_json(data_with_symbols,file_path)
+ 
