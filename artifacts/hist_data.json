@@ -1,0 +1,236 @@
+[
+    {
+        "date": "2025-06-16",
+        "open": 260,
+        "high": 265.31,
+        "low": 258,
+        "close": 262.89,
+        "volume": 10935361,
+        "symbol": "WIPRO"
+    },
+    {
+        "date": "2025-06-16",
+        "open": 464,
+        "high": 467,
+        "low": 456.7,
+        "close": 463.9,
+        "volume": 8258945,
+        "symbol": "VEDL"
+    },
+    {
+        "date": "2025-06-16",
+        "open": 249,
+        "high": 253.52,
+        "low": 248.71,
+        "close": 252.15,
+        "volume": 26481959,
+        "symbol": "ETERNAL"
+    },
+    {
+        "date": "2025-06-16",
+        "open": 309.95,
+        "high": 316.85,
+        "low": 308.5,
+        "close": 316.4,
+        "volume": 6893567,
+        "symbol": "BPCL"
+    },
+    {
+        "date": "2025-06-16",
+        "open": 253.99,
+        "high": 257.5,
+        "low": 252.19,
+        "close": 256.79,
+        "volume": 41444122,
+        "symbol": "ONGC"
+    },
+    {
+        "date": "2025-06-16",
+        "open": 287.95,
+        "high": 290.5,
+        "low": 286.3,
+        "close": 288.65,
+        "volume": 11067299,
+        "symbol": "POWERGRID"
+    },
+    {
+        "date": "2025-06-16",
+        "open": 414.95,
+        "high": 418.9,
+        "low": 413.25,
+        "close": 418.2,
+        "volume": 7006629,
+        "symbol": "ITC"
+    },
+    {
+        "date": "2025-06-16",
+        "open": 332,
+        "high": 334.65,
+        "low": 330.6,
+        "close": 333.7,
+        "volume": 8065112,
+        "symbol": "NTPC"
+    },
+    {
+        "date": "2025-06-16",
+        "open": 391,
+        "high": 394.6,
+        "low": 386.2,
+        "close": 394.35,
+        "volume": 3706240,
+        "symbol": "COALINDIA"
+    },
+    {
+        "date": "2025-06-16",
+        "open": 711,
+        "high": 714,
+        "low": 672.95,
+        "close": 686.65,
+        "volume": 31246328,
+        "symbol": "TATAMOTORS"
+    },
+    {
+        "date": "2025-06-16",
+        "open": 152.01,
+        "high": 154.5,
+        "low": 150.84,
+        "close": 154.17,
+        "volume": 16188193,
+        "symbol": "TATASTEEL"
+    },
+    {
+        "date": "2025-06-16",
+        "open": 397,
+        "high": 401.25,
+        "low": 391.25,
+        "close": 399.4,
+        "volume": 3609820,
+        "symbol": "TATAPOWER"
+    },
+    {
+        "date": "2025-06-16",
+        "open": 402.7,
+        "high": 403.75,
+        "low": 393.55,
+        "close": 401.5,
+        "volume": 6381409,
+        "symbol": "RECLTD"
+    },
+    {
+        "date": "2025-06-16",
+        "open": 396.15,
+        "high": 404.5,
+        "low": 394.2,
+        "close": 403.85,
+        "volume": 32061745,
+        "symbol": "BEL"
+    },
+    {
+        "date": "2025-06-16",
+        "open": 253,
+        "high": 256.25,
+        "low": 248.2,
+        "close": 254.45,
+        "volume": 5449381,
+        "symbol": "BHEL"
+    },
+    {
+        "date": "2025-06-16",
+        "open": 641.8,
+        "high": 651.05,
+        "low": 636,
+        "close": 649.6,
+        "volume": 3422978,
+        "symbol": "HINDALCO"
+    },
+    {
+        "date": "2025-06-16",
+        "open": 241.4,
+        "high": 249.44,
+        "low": 237.39,
+        "close": 248.75,
+        "volume": 6293041,
+        "symbol": "ABCAPITAL"
+    },
+    {
+        "date": "2025-06-16",
+        "open": 293.5,
+        "high": 294.95,
+        "low": 287.5,
+        "close": 294.15,
+        "volume": 16256316,
+        "symbol": "JIOFIN"
+    },
+    {
+        "date": "2025-06-16",
+        "open": 792.5,
+        "high": 795.4,
+        "low": 786.15,
+        "close": 792.5,
+        "volume": 8085001,
+        "symbol": "SBIN"
+    },
+    {
+        "date": "2025-06-16",
+        "open": 543.95,
+        "high": 552.9,
+        "low": 537.3,
+        "close": 550.15,
+        "volume": 1253497,
+        "symbol": "AMBUJACEM"
+    },
+    {
+        "date": "2025-06-16",
+        "open": 238.5,
+        "high": 244.95,
+        "low": 236.3,
+        "close": 240.62,
+        "volume": 7304944,
+        "symbol": "BANKBARODA"
+    },
+    {
+        "date": "2025-06-16",
+        "open": 507.8,
+        "high": 514.3,
+        "low": 503.05,
+        "close": 512.85,
+        "volume": 1713177,
+        "symbol": "JSWENERGY"
+    },
+    {
+        "date": "2025-06-16",
+        "open": 469,
+        "high": 475.45,
+        "low": 458.55,
+        "close": 473.15,
+        "volume": 7686376,
+        "symbol": "VBL"
+    },
+    {
+        "date": "2025-06-16",
+        "open": 192.5,
+        "high": 192.65,
+        "low": 188.5,
+        "close": 191.63,
+        "volume": 7728599,
+        "symbol": "GAIL"
+    },
+    {
+        "date": "2025-06-16",
+        "open": 669,
+        "high": 681.25,
+        "low": 668.6,
+        "close": 676.15,
+        "volume": 6882573,
+        "symbol": "SHRIRAMFIN"
+    },
+    {
+        "date": "2025-06-16",
+        "open": 852.25,
+        "high": 863,
+        "low": 844,
+        "close": 859,
+        "volume": 2204028,
+        "symbol": "DLF"
+    }
+]
