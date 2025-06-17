@@ -33,11 +33,18 @@ class config_manager:
     def data_loading_config():
         yaml_file=read_yaml(CONFIG_FILE_PATH)
         symbol_list=yaml_file['data_loading_configs']['symbol_list']
+
         logger.info("symbol list retrieved successful")
         return symbol_list
     def json_file_path():
         yaml_file=read_yaml(CONFIG_FILE_PATH)
         json_path=yaml_file["data_saving"]["json_file_path"]
+
+        return json_path
+    
+    def backtest_data_path():
+        yaml_file=read_yaml(CONFIG_FILE_PATH)
+        json_path=yaml_file["data_saving"]["back_test_path"]
 
         return json_path
 

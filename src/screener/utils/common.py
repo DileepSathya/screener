@@ -79,3 +79,16 @@ def save_to_hist_data_json(new_data, json_path):
         json.dump(list(unique_data), f, indent=4)
 
     print(f"✅ Data appended and saved to {json_path}")
+
+
+
+
+def clear_hist_data_json(json_path):
+    # Ensure the directory exists
+    os.makedirs(os.path.dirname(json_path), exist_ok=True)
+
+    # Overwrite the file with an empty list
+    with open(json_path, "w") as f:
+        json.dump([], f, indent=4)
+
+    print(f"🗑️  Existing data cleared in {json_path}")

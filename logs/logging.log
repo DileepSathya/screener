@@ -172,3 +172,447 @@ TypeError: strptime() argument 1 must be str, not datetime.date
 [2025-06-17-07:28:17]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
 [2025-06-17-07:28:18]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
 [2025-06-17-07:28:18]: Stock_AI_logger-INFO-Data retrival stage Stage sucessful:
+[2025-06-17-19:39:01]: Stock_AI_logger-INFO------Screening stage-----:
+[2025-06-17-19:39:01]: Stock_AI_logger-ERROR-screening_phase() takes 0 positional arguments but 1 was given:
+Traceback (most recent call last):
+  File "C:\Users\Dileep Sathya\Desktop\screener\main.py", line 34, in screener_phase
+    sc.screening_phase()
+TypeError: screening_phase() takes 0 positional arguments but 1 was given
+[2025-06-17-19:40:30]: Stock_AI_logger-INFO------Screening stage-----:
+[2025-06-17-19:40:30]: Stock_AI_logger-ERROR-screening_phase() takes 0 positional arguments but 1 was given:
+Traceback (most recent call last):
+  File "C:\Users\Dileep Sathya\Desktop\screener\main.py", line 34, in screener_phase
+    sc.screening_phase()
+TypeError: screening_phase() takes 0 positional arguments but 1 was given
+[2025-06-17-19:42:39]: Stock_AI_logger-INFO------Screening stage-----:
+[2025-06-17-19:42:39]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-19:42:39]: Stock_AI_logger-INFO-data frmae load succesful:
+[2025-06-17-19:42:40]: Stock_AI_logger-INFO-Screening stage sucessful:
+[2025-06-17-19:43:24]: Stock_AI_logger-INFO------Screening stage-----:
+[2025-06-17-19:43:24]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-19:43:24]: Stock_AI_logger-INFO-data frmae load succesful:
+[2025-06-17-19:43:24]: Stock_AI_logger-INFO-Screening stage sucessful:
+[2025-06-17-19:57:11]: Stock_AI_logger-INFO------backtest Data retrival Stage-----:
+[2025-06-17-19:57:11]: Stock_AI_logger-INFO-Accessing client_id and acesstoken:
+[2025-06-17-19:57:11]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-19:57:11]: Stock_AI_logger-INFO-Successfully retrieved authentication code.:
+[2025-06-17-19:57:11]: Stock_AI_logger-INFO-Accessing client_id and acesstoken successful:
+[2025-06-17-19:57:11]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-19:57:11]: Stock_AI_logger-INFO-symbol list retrieved successful:
+[2025-06-17-19:57:12]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-19:57:12]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-19:57:12]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-19:57:12]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-19:57:12]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-19:57:12]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-19:57:13]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-19:57:13]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-19:57:13]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-19:57:13]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-19:57:13]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-19:57:13]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-19:57:14]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-19:57:14]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-19:57:14]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-19:57:14]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-19:57:14]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-19:57:14]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-19:57:15]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-19:57:15]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-19:57:15]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-19:57:15]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-19:57:15]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-19:57:15]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-19:57:15]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-19:57:16]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-19:57:16]: Stock_AI_logger-INFO-backtest Data retrival Stage sucessful:
+[2025-06-17-19:58:12]: Stock_AI_logger-INFO------backtest Data retrival Stage-----:
+[2025-06-17-19:58:12]: Stock_AI_logger-INFO-Accessing client_id and acesstoken:
+[2025-06-17-19:58:12]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-19:58:12]: Stock_AI_logger-INFO-Successfully retrieved authentication code.:
+[2025-06-17-19:58:12]: Stock_AI_logger-INFO-Accessing client_id and acesstoken successful:
+[2025-06-17-19:58:12]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-19:58:12]: Stock_AI_logger-INFO-symbol list retrieved successful:
+[2025-06-17-19:58:12]: Stock_AI_logger-ERROR-too many values to unpack (expected 2):
+Traceback (most recent call last):
+  File "C:\Users\Dileep Sathya\Desktop\screener\main.py", line 34, in backtest
+    retriever.bactest_data()
+  File "C:\Users\Dileep Sathya\Desktop\screener\src\screener\components\data_retrival.py", line 41, in bactest_data
+    symbol_list,start_date,end_date=prev_day_data_pipeline.backtest()
+  File "C:\Users\Dileep Sathya\Desktop\screener\src\screener\pipeline\prev_day_data_pipeline.py", line 22, in backtest
+    in_symbol_list,date=config_manager.data_loading_config()
+ValueError: too many values to unpack (expected 2)
+[2025-06-17-19:59:44]: Stock_AI_logger-INFO------backtest Data retrival Stage-----:
+[2025-06-17-19:59:44]: Stock_AI_logger-INFO-Accessing client_id and acesstoken:
+[2025-06-17-19:59:44]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-19:59:44]: Stock_AI_logger-INFO-Successfully retrieved authentication code.:
+[2025-06-17-19:59:44]: Stock_AI_logger-INFO-Accessing client_id and acesstoken successful:
+[2025-06-17-19:59:44]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-19:59:44]: Stock_AI_logger-INFO-symbol list retrieved successful:
+[2025-06-17-19:59:44]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-19:59:44]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-19:59:44]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-19:59:45]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-19:59:45]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-19:59:45]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-19:59:45]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-19:59:45]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-19:59:46]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-19:59:46]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-19:59:46]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-19:59:46]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-19:59:46]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-19:59:46]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-19:59:47]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-19:59:47]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-19:59:47]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-19:59:47]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-19:59:47]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-19:59:48]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-19:59:48]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-19:59:48]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-19:59:48]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-19:59:48]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-19:59:48]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-19:59:49]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-19:59:49]: Stock_AI_logger-INFO-backtest Data retrival Stage sucessful:
+[2025-06-17-20:02:23]: Stock_AI_logger-INFO------Data retrival Stage-----:
+[2025-06-17-20:02:23]: Stock_AI_logger-INFO-Accessing client_id and acesstoken:
+[2025-06-17-20:02:23]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:02:23]: Stock_AI_logger-INFO-Successfully retrieved authentication code.:
+[2025-06-17-20:02:23]: Stock_AI_logger-INFO-Accessing client_id and acesstoken successful:
+[2025-06-17-20:02:23]: Stock_AI_logger-ERROR-type object 'prev_day_data_pipeline' has no attribute 'prev_day_data':
+Traceback (most recent call last):
+  File "C:\Users\Dileep Sathya\Desktop\screener\main.py", line 23, in hist_data
+    retriever.prev_day_data()
+  File "C:\Users\Dileep Sathya\Desktop\screener\src\screener\components\data_retrival.py", line 21, in prev_day_data
+    symbol_list,start_date,end_date=prev_day_data_pipeline.prev_day_data()
+AttributeError: type object 'prev_day_data_pipeline' has no attribute 'prev_day_data'
+[2025-06-17-20:02:51]: Stock_AI_logger-INFO------Data retrival Stage-----:
+[2025-06-17-20:02:51]: Stock_AI_logger-INFO-Accessing client_id and acesstoken:
+[2025-06-17-20:02:51]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:02:51]: Stock_AI_logger-INFO-Successfully retrieved authentication code.:
+[2025-06-17-20:02:51]: Stock_AI_logger-INFO-Accessing client_id and acesstoken successful:
+[2025-06-17-20:02:51]: Stock_AI_logger-ERROR-prev_day_data() missing 1 required positional argument: 'self':
+Traceback (most recent call last):
+  File "C:\Users\Dileep Sathya\Desktop\screener\main.py", line 23, in hist_data
+    retriever.prev_day_data()
+  File "C:\Users\Dileep Sathya\Desktop\screener\src\screener\components\data_retrival.py", line 21, in prev_day_data
+    symbol_list,start_date,end_date=prev_day_data_pipeline.prev_day_data()
+TypeError: prev_day_data() missing 1 required positional argument: 'self'
+[2025-06-17-20:03:45]: Stock_AI_logger-INFO------Data retrival Stage-----:
+[2025-06-17-20:03:45]: Stock_AI_logger-INFO-Accessing client_id and acesstoken:
+[2025-06-17-20:03:45]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:03:45]: Stock_AI_logger-INFO-Successfully retrieved authentication code.:
+[2025-06-17-20:03:45]: Stock_AI_logger-INFO-Accessing client_id and acesstoken successful:
+[2025-06-17-20:03:45]: Stock_AI_logger-ERROR-prev_day_data() missing 1 required positional argument: 'self':
+Traceback (most recent call last):
+  File "C:\Users\Dileep Sathya\Desktop\screener\main.py", line 23, in hist_data
+    retriever.prev_day_data()
+  File "C:\Users\Dileep Sathya\Desktop\screener\src\screener\components\data_retrival.py", line 21, in prev_day_data
+    symbol_list,start_date,end_date=prev_day_data_pipeline.prev_day_data()
+TypeError: prev_day_data() missing 1 required positional argument: 'self'
+[2025-06-17-20:05:22]: Stock_AI_logger-INFO------Data retrival Stage-----:
+[2025-06-17-20:05:22]: Stock_AI_logger-INFO-Accessing client_id and acesstoken:
+[2025-06-17-20:05:22]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:05:22]: Stock_AI_logger-INFO-Successfully retrieved authentication code.:
+[2025-06-17-20:05:22]: Stock_AI_logger-INFO-Accessing client_id and acesstoken successful:
+[2025-06-17-20:05:22]: Stock_AI_logger-ERROR-get_data() missing 1 required positional argument: 'self':
+Traceback (most recent call last):
+  File "C:\Users\Dileep Sathya\Desktop\screener\main.py", line 23, in hist_data
+    retriever.prev_day_data()
+  File "C:\Users\Dileep Sathya\Desktop\screener\src\screener\components\data_retrival.py", line 21, in prev_day_data
+    symbol_list,start_date,end_date=prev_day_data_pipeline.get_data()
+TypeError: get_data() missing 1 required positional argument: 'self'
+[2025-06-17-20:05:46]: Stock_AI_logger-INFO------Data retrival Stage-----:
+[2025-06-17-20:05:46]: Stock_AI_logger-INFO-Accessing client_id and acesstoken:
+[2025-06-17-20:05:46]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:05:46]: Stock_AI_logger-INFO-Successfully retrieved authentication code.:
+[2025-06-17-20:05:46]: Stock_AI_logger-INFO-Accessing client_id and acesstoken successful:
+[2025-06-17-20:07:12]: Stock_AI_logger-INFO------Data retrival Stage-----:
+[2025-06-17-20:07:12]: Stock_AI_logger-INFO-Accessing client_id and acesstoken:
+[2025-06-17-20:07:12]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:07:12]: Stock_AI_logger-INFO-Successfully retrieved authentication code.:
+[2025-06-17-20:07:12]: Stock_AI_logger-INFO-Accessing client_id and acesstoken successful:
+[2025-06-17-20:07:31]: Stock_AI_logger-INFO------Data retrival Stage-----:
+[2025-06-17-20:07:31]: Stock_AI_logger-INFO-Accessing client_id and acesstoken:
+[2025-06-17-20:07:31]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:07:31]: Stock_AI_logger-INFO-Successfully retrieved authentication code.:
+[2025-06-17-20:07:31]: Stock_AI_logger-INFO-Accessing client_id and acesstoken successful:
+[2025-06-17-20:07:35]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:07:35]: Stock_AI_logger-INFO-symbol list retrieved successful:
+[2025-06-17-20:07:35]: Stock_AI_logger-ERROR-'list' object has no attribute 'upper':
+Traceback (most recent call last):
+  File "C:\Users\Dileep Sathya\Desktop\screener\main.py", line 23, in hist_data
+    retriever.prev_day_data()
+  File "C:\Users\Dileep Sathya\Desktop\screener\src\screener\components\data_retrival.py", line 22, in prev_day_data
+    symbol_list,start_date,end_date=pipeline.get_data()
+  File "C:\Users\Dileep Sathya\Desktop\screener\src\screener\pipeline\prev_day_data_pipeline.py", line 24, in get_data
+    symbols_list = [format_symbol(symbol) for symbol in in_symbol_list]
+  File "C:\Users\Dileep Sathya\Desktop\screener\src\screener\pipeline\prev_day_data_pipeline.py", line 24, in <listcomp>
+    symbols_list = [format_symbol(symbol) for symbol in in_symbol_list]
+  File "C:\Users\Dileep Sathya\Desktop\screener\src\screener\utils\common.py", line 26, in format_symbol
+    return f"NSE:{symbol.upper()}-EQ"
+AttributeError: 'list' object has no attribute 'upper'
+[2025-06-17-20:10:16]: Stock_AI_logger-INFO------Data retrival Stage-----:
+[2025-06-17-20:10:16]: Stock_AI_logger-INFO-Accessing client_id and acesstoken:
+[2025-06-17-20:10:16]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:10:16]: Stock_AI_logger-INFO-Successfully retrieved authentication code.:
+[2025-06-17-20:10:16]: Stock_AI_logger-INFO-Accessing client_id and acesstoken successful:
+[2025-06-17-20:10:17]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:10:17]: Stock_AI_logger-INFO-symbol list retrieved successful:
+[2025-06-17-20:10:17]: Stock_AI_logger-ERROR-'list' object has no attribute 'upper':
+Traceback (most recent call last):
+  File "C:\Users\Dileep Sathya\Desktop\screener\main.py", line 23, in hist_data
+    retriever.prev_day_data()
+  File "C:\Users\Dileep Sathya\Desktop\screener\src\screener\components\data_retrival.py", line 22, in prev_day_data
+    symbol_list,start_date,end_date=pipeline.get_data()
+  File "C:\Users\Dileep Sathya\Desktop\screener\src\screener\pipeline\prev_day_data_pipeline.py", line 25, in get_data
+    symbols_list = [format_symbol(symbol) for symbol in in_symbol_list]
+  File "C:\Users\Dileep Sathya\Desktop\screener\src\screener\pipeline\prev_day_data_pipeline.py", line 25, in <listcomp>
+    symbols_list = [format_symbol(symbol) for symbol in in_symbol_list]
+  File "C:\Users\Dileep Sathya\Desktop\screener\src\screener\utils\common.py", line 26, in format_symbol
+    return f"NSE:{symbol.upper()}-EQ"
+AttributeError: 'list' object has no attribute 'upper'
+[2025-06-17-20:11:29]: Stock_AI_logger-INFO------Data retrival Stage-----:
+[2025-06-17-20:11:29]: Stock_AI_logger-INFO-Accessing client_id and acesstoken:
+[2025-06-17-20:11:29]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:11:29]: Stock_AI_logger-INFO-Successfully retrieved authentication code.:
+[2025-06-17-20:11:29]: Stock_AI_logger-INFO-Accessing client_id and acesstoken successful:
+[2025-06-17-20:11:30]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:11:30]: Stock_AI_logger-INFO-symbol list retrieved successful:
+[2025-06-17-20:11:30]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:11:31]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:11:31]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:11:31]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:11:31]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:11:31]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:11:31]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:11:32]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:11:32]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:11:32]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:11:32]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:11:32]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:11:32]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:11:33]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:11:33]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:11:33]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:11:33]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:11:33]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:11:33]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:11:34]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:11:34]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:11:34]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:11:34]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:11:34]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:11:34]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:11:35]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:11:35]: Stock_AI_logger-INFO-Data retrival Stage sucessful:
+[2025-06-17-20:14:34]: Stock_AI_logger-INFO------Data retrival Stage-----:
+[2025-06-17-20:14:34]: Stock_AI_logger-INFO-Accessing client_id and acesstoken:
+[2025-06-17-20:14:34]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:14:34]: Stock_AI_logger-INFO-Successfully retrieved authentication code.:
+[2025-06-17-20:14:34]: Stock_AI_logger-INFO-Accessing client_id and acesstoken successful:
+[2025-06-17-20:14:43]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:14:43]: Stock_AI_logger-INFO-symbol list retrieved successful:
+[2025-06-17-20:14:44]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:14:44]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:14:44]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:14:44]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:14:44]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:14:44]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:14:45]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:14:45]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:14:45]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:14:45]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:14:45]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:14:45]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:14:46]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:14:46]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:14:46]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:14:46]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:14:46]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:14:46]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:14:47]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:14:47]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:14:47]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:14:47]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:14:47]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:14:47]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:14:48]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:14:48]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:14:48]: Stock_AI_logger-INFO-Data retrival Stage sucessful:
+[2025-06-17-20:15:50]: Stock_AI_logger-INFO------Data retrival Stage-----:
+[2025-06-17-20:15:50]: Stock_AI_logger-INFO-Accessing client_id and acesstoken:
+[2025-06-17-20:15:50]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:15:50]: Stock_AI_logger-INFO-Successfully retrieved authentication code.:
+[2025-06-17-20:15:50]: Stock_AI_logger-INFO-Accessing client_id and acesstoken successful:
+[2025-06-17-20:15:52]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:15:52]: Stock_AI_logger-INFO-symbol list retrieved successful:
+[2025-06-17-20:15:52]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:15:52]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:15:52]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:15:52]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:15:53]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:15:53]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:15:53]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:15:53]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:15:53]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:15:53]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:15:54]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:15:54]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:15:54]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:15:54]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:15:54]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:15:54]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:15:55]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:15:55]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:15:55]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:15:55]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:15:55]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:15:55]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:15:56]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:15:56]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:15:56]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:15:56]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:15:56]: Stock_AI_logger-INFO-Data retrival Stage sucessful:
+[2025-06-17-20:17:45]: Stock_AI_logger-INFO------Data retrival Stage-----:
+[2025-06-17-20:17:45]: Stock_AI_logger-INFO-Accessing client_id and acesstoken:
+[2025-06-17-20:17:45]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:17:45]: Stock_AI_logger-INFO-Successfully retrieved authentication code.:
+[2025-06-17-20:17:45]: Stock_AI_logger-INFO-Accessing client_id and acesstoken successful:
+[2025-06-17-20:17:51]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:17:51]: Stock_AI_logger-INFO-symbol list retrieved successful:
+[2025-06-17-20:17:51]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:17:52]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:17:52]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:17:52]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:17:52]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:17:52]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:17:53]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:17:53]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:17:53]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:17:53]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:17:53]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:17:53]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:17:54]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:17:54]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:17:54]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:17:54]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:17:54]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:17:55]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:17:55]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:17:55]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:17:55]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:17:55]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:17:56]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:17:56]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:17:56]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:17:56]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:17:56]: Stock_AI_logger-INFO-Data retrival Stage sucessful:
+[2025-06-17-20:20:03]: Stock_AI_logger-INFO------Data retrival Stage-----:
+[2025-06-17-20:20:03]: Stock_AI_logger-INFO-Accessing client_id and acesstoken:
+[2025-06-17-20:20:03]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:20:03]: Stock_AI_logger-INFO-Successfully retrieved authentication code.:
+[2025-06-17-20:20:03]: Stock_AI_logger-INFO-Accessing client_id and acesstoken successful:
+[2025-06-17-20:20:04]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:20:04]: Stock_AI_logger-INFO-symbol list retrieved successful:
+[2025-06-17-20:20:04]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:20:04]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:20:04]: Stock_AI_logger-INFO-Data retrival Stage sucessful:
+[2025-06-17-20:20:30]: Stock_AI_logger-INFO------Data retrival Stage-----:
+[2025-06-17-20:20:30]: Stock_AI_logger-INFO-Accessing client_id and acesstoken:
+[2025-06-17-20:20:30]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:20:30]: Stock_AI_logger-INFO-Successfully retrieved authentication code.:
+[2025-06-17-20:20:30]: Stock_AI_logger-INFO-Accessing client_id and acesstoken successful:
+[2025-06-17-20:20:35]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:20:35]: Stock_AI_logger-INFO-symbol list retrieved successful:
+[2025-06-17-20:20:35]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:20:35]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:20:35]: Stock_AI_logger-INFO-Data retrival Stage sucessful:
+[2025-06-17-20:21:08]: Stock_AI_logger-INFO------Data retrival Stage-----:
+[2025-06-17-20:21:08]: Stock_AI_logger-INFO-Accessing client_id and acesstoken:
+[2025-06-17-20:21:08]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:21:08]: Stock_AI_logger-INFO-Successfully retrieved authentication code.:
+[2025-06-17-20:21:08]: Stock_AI_logger-INFO-Accessing client_id and acesstoken successful:
+[2025-06-17-20:21:12]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:21:12]: Stock_AI_logger-INFO-symbol list retrieved successful:
+[2025-06-17-20:21:12]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:21:12]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:21:13]: Stock_AI_logger-INFO-Data retrival Stage sucessful:
+[2025-06-17-20:22:07]: Stock_AI_logger-INFO------Data retrival Stage-----:
+[2025-06-17-20:22:07]: Stock_AI_logger-INFO-Accessing client_id and acesstoken:
+[2025-06-17-20:22:07]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:22:07]: Stock_AI_logger-INFO-Successfully retrieved authentication code.:
+[2025-06-17-20:22:07]: Stock_AI_logger-INFO-Accessing client_id and acesstoken successful:
+[2025-06-17-20:22:08]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:22:08]: Stock_AI_logger-INFO-symbol list retrieved successful:
+[2025-06-17-20:22:08]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:22:08]: Stock_AI_logger-INFO-Data retrival Stage sucessful:
+[2025-06-17-20:22:39]: Stock_AI_logger-INFO------Data retrival Stage-----:
+[2025-06-17-20:22:39]: Stock_AI_logger-INFO-Accessing client_id and acesstoken:
+[2025-06-17-20:22:39]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:22:39]: Stock_AI_logger-INFO-Successfully retrieved authentication code.:
+[2025-06-17-20:22:39]: Stock_AI_logger-INFO-Accessing client_id and acesstoken successful:
+[2025-06-17-20:22:57]: Stock_AI_logger-ERROR-Invalid isoformat string: '2001-04-015':
+Traceback (most recent call last):
+  File "C:\Users\Dileep Sathya\Desktop\screener\main.py", line 23, in hist_data
+    retriever.prev_day_data()
+  File "C:\Users\Dileep Sathya\Desktop\screener\src\screener\components\data_retrival.py", line 22, in prev_day_data
+    symbol_list,start_date,end_date=pipeline.get_data()
+  File "C:\Users\Dileep Sathya\Desktop\screener\src\screener\pipeline\prev_day_data_pipeline.py", line 17, in get_data
+    start_date = date.fromisoformat(start_input)
+ValueError: Invalid isoformat string: '2001-04-015'
+[2025-06-17-20:23:02]: Stock_AI_logger-INFO------Data retrival Stage-----:
+[2025-06-17-20:23:02]: Stock_AI_logger-INFO-Accessing client_id and acesstoken:
+[2025-06-17-20:23:02]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:23:02]: Stock_AI_logger-INFO-Successfully retrieved authentication code.:
+[2025-06-17-20:23:02]: Stock_AI_logger-INFO-Accessing client_id and acesstoken successful:
+[2025-06-17-20:23:09]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:23:09]: Stock_AI_logger-INFO-symbol list retrieved successful:
+[2025-06-17-20:23:09]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:23:14]: Stock_AI_logger-INFO-Data retrival Stage sucessful:
+[2025-06-17-20:23:22]: Stock_AI_logger-INFO------Data retrival Stage-----:
+[2025-06-17-20:23:22]: Stock_AI_logger-INFO-Accessing client_id and acesstoken:
+[2025-06-17-20:23:22]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:23:22]: Stock_AI_logger-INFO-Successfully retrieved authentication code.:
+[2025-06-17-20:23:22]: Stock_AI_logger-INFO-Accessing client_id and acesstoken successful:
+[2025-06-17-20:23:36]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:23:36]: Stock_AI_logger-INFO-symbol list retrieved successful:
+[2025-06-17-20:23:36]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:23:41]: Stock_AI_logger-INFO-Data retrival Stage sucessful:
+[2025-06-17-20:23:47]: Stock_AI_logger-INFO------Data retrival Stage-----:
+[2025-06-17-20:23:47]: Stock_AI_logger-INFO-Accessing client_id and acesstoken:
+[2025-06-17-20:23:47]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:23:47]: Stock_AI_logger-INFO-Successfully retrieved authentication code.:
+[2025-06-17-20:23:47]: Stock_AI_logger-INFO-Accessing client_id and acesstoken successful:
+[2025-06-17-20:23:48]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:23:48]: Stock_AI_logger-INFO-symbol list retrieved successful:
+[2025-06-17-20:23:48]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:23:53]: Stock_AI_logger-INFO-Data retrival Stage sucessful:
+[2025-06-17-20:24:29]: Stock_AI_logger-INFO------Data retrival Stage-----:
+[2025-06-17-20:24:29]: Stock_AI_logger-INFO-Accessing client_id and acesstoken:
+[2025-06-17-20:24:29]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:24:29]: Stock_AI_logger-INFO-Successfully retrieved authentication code.:
+[2025-06-17-20:24:29]: Stock_AI_logger-INFO-Accessing client_id and acesstoken successful:
+[2025-06-17-20:24:40]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:24:40]: Stock_AI_logger-INFO-symbol list retrieved successful:
+[2025-06-17-20:24:40]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:24:45]: Stock_AI_logger-INFO-Data retrival Stage sucessful:
+[2025-06-17-20:24:45]: Stock_AI_logger-INFO------Screening stage-----:
+[2025-06-17-20:24:45]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:24:45]: Stock_AI_logger-INFO-data frmae load succesful:
+[2025-06-17-20:24:45]: Stock_AI_logger-INFO-Screening stage sucessful:
+[2025-06-17-20:29:06]: Stock_AI_logger-INFO------Data retrival Stage-----:
+[2025-06-17-20:29:06]: Stock_AI_logger-INFO-Accessing client_id and acesstoken:
+[2025-06-17-20:29:06]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:29:06]: Stock_AI_logger-INFO-Successfully retrieved authentication code.:
+[2025-06-17-20:29:06]: Stock_AI_logger-INFO-Accessing client_id and acesstoken successful:
+[2025-06-17-20:29:08]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:29:08]: Stock_AI_logger-INFO-symbol list retrieved successful:
+[2025-06-17-20:29:08]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:29:13]: Stock_AI_logger-INFO-Data retrival Stage sucessful:
+[2025-06-17-20:29:13]: Stock_AI_logger-INFO------Screening stage-----:
+[2025-06-17-20:29:13]: Stock_AI_logger-INFO-yaml fileconfig\config.yaml loaded succesfully:
+[2025-06-17-20:29:13]: Stock_AI_logger-INFO-data frmae load succesful:
+[2025-06-17-20:29:13]: Stock_AI_logger-INFO-Screening stage sucessful:
